@@ -1,7 +1,4 @@
 {
-  "engines": {
-    "node": ">=12"
-  },
  "name": "string-library-iobablola",
  "version": "1.0.2",
  "description": "A String reversal library",
