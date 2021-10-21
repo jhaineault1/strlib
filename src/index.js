@@ -1,3 +1,3 @@
-export default function reverser (__input) {
-    return __input.split('').reverse().join('')
+export default function reverser (_input) {
+    return _input.split('').reverse().join('')
 }
