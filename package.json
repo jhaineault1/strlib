@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": ">=12"
+  },
  "name": "string-library-iobablola",
  "version": "1.0.2",
  "description": "A String reversal library",
@@ -8,9 +11,6 @@
   "build": "rollup -c",
   "coverage": "nyc report --reporter=lcov --reporter=text-lcov --reporter=html"
  },
- "engines": {
-  "node": ">=12"
-},
  "ava": {
   "require": [
    "@babel/register",
